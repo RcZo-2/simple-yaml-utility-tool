@@ -1,0 +1,14 @@
+root1:
+- key: AAA
+- key: BBB
+root2:
+  branch:
+    key1: CCC
+root3:
+  nest1:
+  - child:
+    - id: DDD
+    task1: task1
+  - child:
+    - id: DDD
+    task2: task2

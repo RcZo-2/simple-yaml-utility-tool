@@ -1,0 +1,10 @@
+[
+  {
+    "location": "root1[0].key",
+    "new_value": "ZZZ"
+  },
+  {
+    "location": "root3.nest1[0].child[0].id",
+    "new_value": "${HHH}"
+  }
+]
